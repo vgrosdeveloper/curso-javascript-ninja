@@ -87,5 +87,5 @@ function threeArguments (a, b, c) {
 threeArguments(); // false
 threeArguments(50); // 50
 threeArguments(5, 6); // 11
-threeArguments(4, 5, 6); // 15
+threeArguments(10, 20, 30); // 1
 ```
